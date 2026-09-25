@@ -1,3 +1,4 @@
+<img width="998" height="598" alt="Captura de tela 2026-09-25 164236" src="https://github.com/user-attachments/assets/6db2ad2e-ef58-403b-99ad-d8a028c4b24c" />
 Motor de Inteligência e API de CX
 
 ## 🎯 O Desafio de Negócio
